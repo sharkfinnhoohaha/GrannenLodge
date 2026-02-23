@@ -1,0 +1,56 @@
+{
+  "heroTitle": "Grannen Lodge",
+  "heroSubtitle": "A place to disconnect, reflect, and gather in nature.",
+  "heroImage": "/uploads/L1002174.png",
+  "aboutTitle": "Welcome to the Woods",
+  "aboutText": "Grannen Lodge is a simple, atmospheric space surrounded by the quiet of the forest. We believe in the power of stepping away from the daily rush to reconnect with what matters. \n\nWhether you are seeking a place for education, creative focus, or simply to spend meaningful time with friends and family, our doors are open. This isn't just a place to stay; it is an experience to share.",
+  "aboutImage": "/uploads/L1002126.png",
+  "gallery": [
+    "/uploads/L1002120.png",
+    "/uploads/L1002148.png",
+    "/uploads/L1002157.png",
+    "/uploads/L1002162.png",
+    "/uploads/L1002175.png",
+    "/uploads/L1002186.png",
+    "/uploads/L1002194.png",
+    "/uploads/L1002196.png",
+    "/uploads/L1002199.png",
+    "/uploads/L1002200.png",
+    "/uploads/L1002202.png",
+    "/uploads/L1002204.png",
+    "/uploads/L1002207.png",
+    "/uploads/L1002212.png",
+    "/uploads/L1002213.png"
+  ],
+  "contactEmail": "hello@grannenlodge.com",
+  "retreats": [
+    {
+      "title": "Schoolcamps & Outdoor Ed",
+      "desc": "Immersive nature experiences and outdoor learning for students."
+    },
+    {
+      "title": "Team Retreats",
+      "desc": "Space for organizations to connect, strategize, and bond outside the office."
+    },
+    {
+      "title": "Creative Retreats",
+      "desc": "Quiet, inspiring surroundings for artists, writers, and makers."
+    },
+    {
+      "title": "Therapy & Reflection",
+      "desc": "A peaceful environment tailored for wellness, healing, and deep reflection."
+    },
+    {
+      "title": "Community Weekends",
+      "desc": "Gatherings focused on shared experiences and building meaningful connections."
+    },
+    {
+      "title": "Digital Detox",
+      "desc": "Unplug completely and reset your mind away from screens and schedules."
+    },
+    {
+      "title": "Friends & Family Time",
+      "desc": "Cozy, private stays to celebrate, relax, and create lasting memories together."
+    }
+  ]
+}
